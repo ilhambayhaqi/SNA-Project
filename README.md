@@ -14,7 +14,7 @@ Data twitter yang telah diambil diletakkan dalam folder _Resource_. Dengan keten
 
 - Untuk nama file berawalan _beforeInteraction ..._ merupakan data hasil interaksi yang terhadap setiap tweet yang ada pada file _before ..._ dengan depth yang sama. Begitu pula dengan yang after
 
-- Untuk snowball ulang pada akun "@dr*koko28" memiliki prefix \_before_koko*
+- Untuk snowball ulang pada akun "@dr_koko28" memiliki prefix *before_koko*
 
 ## Urutan pengambilan
 
