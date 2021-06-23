@@ -12,6 +12,10 @@ Terdapat 2 Jupyter Notebook yang ada pada project ini, sebagai berikut.
 
 - *Twitter_2Mode.ipynb* - merupakan notebook yang digunakan untuk melakukan visualisasi graph dan analisis tweet dengan menggunakan 2 mode node yaitu node akun dan node tweet dengan graph berupa undirected graph.
 
+## Resourse Gambar
+
+Gambar untuk jaringan yang terbentuk bisa diakses pada folder _Resource/image_ dengan nama prefix pada nama file sesuai gambar pada file laporan Word.
+
 ## Resource JSON
 
 Data twitter yang telah diambil diletakkan dalam folder _Resource_. Dengan ketentuan sebagai berikut.
